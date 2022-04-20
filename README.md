@@ -1,7 +1,6 @@
 # Text-Messages
 
-Send your friends AUTOMATED text messages as a little prank :P
-Inspired by the Bee Movie texts viral tik tok
+Send your friends AUTOMATED text messages as a little prank.
 
 Note: this script will only work if you have a Mac
 
